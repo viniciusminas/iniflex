@@ -5,13 +5,13 @@
 ### O projeto foi desenvolvido em Java puro, utilizando programação orientada a objetos.
 A estrutura de pacotes ficou organizada da seguinte forma:
 
-src
-└── br.com.iniflex
-├── model
-│ ├── Pessoa.java
-│ └── Funcionario.java
-└── main
-└── Principal.java
+src/  
+├── br.com.iniflex/  
+│   ├── model/  
+│   │   ├── Pessoa.java  
+│   │   └── Funcionario.java  
+│   └── main/  
+│       └── Principal.java  
 
 * Pessoa: classe base com atributos nome e dataNascimento.
 
